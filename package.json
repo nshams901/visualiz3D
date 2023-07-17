@@ -2,7 +2,7 @@
   "name": "visualiz3d",
   "version": "1.0.0",
   "description": "",
-  "main": "tailwind.config.js",
+  "type": "module",
   "dependencies": {
     "@react-three/drei": "^9.58.5",
     "@react-three/fiber": "^8.12.0",
